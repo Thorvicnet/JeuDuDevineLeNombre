@@ -51,4 +51,6 @@ que son nombre est trop petit ou trop grand.
 - Trouver des citations, solution : perdre du temps (google)
 - import depuis un dossier, solution : "modules.lemodule" (rajouter un " . " pas un " / ")
 
-[alt text](https://github.com/Thorvicnet/JeuDuDevineLeNombre/blob/3768c9c9bcac8f6036c3bf98b04ed0eaaee9987b/exemple.png)
+<img src="https://github.com/Thorvicnet/JeuDuDevineLeNombre/blob/3768c9c9bcac8f6036c3bf98b04ed0eaaee9987b/exemple.png"
+     alt="Example image"
+     style="float: left; margin-right: 10px;" />
